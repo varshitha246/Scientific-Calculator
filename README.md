@@ -51,7 +51,7 @@ How to Use
 
 Screenshot
 
-![Screenshot (115)](https://github.com/user-attachments/assets/080369e2-d86d-4f66-9d51-f39e301a3e57)
+![Screenshot (115)](https://github.com/user-attachments/assets/0f6f9398-c39c-4abd-b648-6de27a7f4bc7)
 
 Future Improvements
 
